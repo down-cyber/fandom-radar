@@ -1,8 +1,858 @@
 {
   "schemaVersion": 1,
   "timezone": "Asia/Seoul",
-  "updatedAt": null,
-  "updateBasis": "아직 최초 수집 전입니다. 표시되는 시안 카드에는 예시 데이터가 포함되어 있습니다.",
-  "items": [],
-  "sourceStatus": []
+  "updatedAt": "2026-10-22T11:08:54+09:00",
+  "updateBasis": "Daily public-feed discovery; article thumbnails link to publisher-hosted images and metrics appear only when a source exposes them.",
+  "items": [
+    {
+      "id": "bookstore-discovery:https://news.google.com/rss/articles/CBMiWEFVX3lxTE5uV2lUNHVrN2FQOFh3dk5URVNFaFJVSVRPbG90WE41aUp3WFpGYzctN29WTTljOUpVaG9nWmtjVElFUFBUX1lEdTdPZk1nd3FQWlJ2d2NrN1U?oc=5",
+      "channel": "온라인 서점",
+      "type": "서점",
+      "title": "[만화] 예스 단독 재정가! DCW 『단다단』 22권 UP! - 예스24",
+      "summary": "[만화] 예스 단독 재정가! DCW 『단다단』 22권 UP! &nbsp;&nbsp; 예스24",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5uV2lUNHVrN2FQOFh3dk5URVNFaFJVSVRPbG90WE41aUp3WFpGYzctN29WTTljOUpVaG9nWmtjVElFUFBUX1lEdTdPZk1nd3FQWlJ2d2NrN1U?oc=5",
+      "publishedAt": "2026-10-22T10:24:37+09:00",
+      "source": "Google News RSS discovery",
+      "collectedAt": "2026-10-22T11:08:46.448461+09:00",
+      "metrics": {
+        "fundingPercent": null,
+        "supporters": null,
+        "price": null
+      },
+      "signal": "신규 소식",
+      "image": null
+    },
+    {
+      "id": "tumblbug-discovery:https://news.google.com/rss/articles/CBMiREFVX3lxTE1FTE1rVEdvQ2ZjMlRmUjd0c3pIV0NkdXlfdWNwUF9aaFVmM1lXZ3RlRkhwaE1iNFlrTEVjM21Oc2YwUlVu?oc=5",
+      "channel": "텀블벅",
+      "type": "펀딩",
+      "title": "개화의 포성 - 텀블벅",
+      "summary": "개화의 포성 &nbsp;&nbsp; 텀블벅",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1FTE1rVEdvQ2ZjMlRmUjd0c3pIV0NkdXlfdWNwUF9aaFVmM1lXZ3RlRkhwaE1iNFlrTEVjM21Oc2YwUlVu?oc=5",
+      "publishedAt": "2026-10-22T01:11:19+09:00",
+      "source": "Google News RSS discovery",
+      "collectedAt": "2026-10-22T11:08:39.228710+09:00",
+      "metrics": {
+        "fundingPercent": null,
+        "supporters": null,
+        "price": null
+      },
+      "signal": "신규 소식",
+      "image": null
+    },
+    {
+      "id": "tumblbug-discovery:https://news.google.com/rss/articles/CBMiRkFVX3lxTE1OVzNleldKaGd6VWh0ZHYwZU1YdmhIWEdxb0RCeXJXWmhTVmlxUW5Ua01JaF9XWkZPSHdWcVdJSjdNRUVENUE?oc=5",
+      "channel": "텀블벅",
+      "type": "펀딩",
+      "title": "멈춘 세계를 구하러 별난 영웅들이 간다! - 텀블벅",
+      "summary": "멈춘 세계를 구하러 별난 영웅들이 간다! &nbsp;&nbsp; 텀블벅",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1OVzNleldKaGd6VWh0ZHYwZU1YdmhIWEdxb0RCeXJXWmhTVmlxUW5Ua01JaF9XWkZPSHdWcVdJSjdNRUVENUE?oc=5",
+      "publishedAt": "2026-10-22T00:31:26+09:00",
+      "source": "Google News RSS discovery",
+      "collectedAt": "2026-10-22T11:08:39.228710+09:00",
+      "metrics": {
+        "fundingPercent": null,
+        "supporters": null,
+        "price": null
+      },
+      "signal": "신규 소식",
+      "image": null
+    },
+    {
+      "id": "tumblbug-discovery:https://news.google.com/rss/articles/CBMiSEFVX3lxTE1fZjByZUs5azVDT0NTRmdUN1YtUnZuMUNyeE5ETXpiSEZudFZTTUkzMnZUNUhwb3h4cnpscFdIbVotWmZEVlZjTQ?oc=5",
+      "channel": "텀블벅",
+      "type": "펀딩",
+      "title": "《알베도 카르타 ~백야기담~》 - 텀블벅",
+      "summary": "《알베도 카르타 ~백야기담~》 &nbsp;&nbsp; 텀블벅",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1fZjByZUs5azVDT0NTRmdUN1YtUnZuMUNyeE5ETXpiSEZudFZTTUkzMnZUNUhwb3h4cnpscFdIbVotWmZEVlZjTQ?oc=5",
+      "publishedAt": "2026-10-21T23:24:27+09:00",
+      "source": "Google News RSS discovery",
+      "collectedAt": "2026-10-22T11:08:39.228710+09:00",
+      "metrics": {
+        "fundingPercent": null,
+        "supporters": null,
+        "price": null
+      },
+      "signal": "신규 소식",
+      "image": null
+    },
+    {
+      "id": "tumblbug-discovery:https://news.google.com/rss/articles/CBMiSEFVX3lxTE9HTktFeFEwZks2dW1XVlRQVXc1bHA5MHptY1JqcE1jeUdWNnFEOVRabVBHOWtXZUhOaDkwNVRES296YndyaW9sUA?oc=5",
+      "channel": "텀블벅",
+      "type": "펀딩",
+      "title": "밤의 전쟁이 시작된다 - 텀블벅",
+      "summary": "밤의 전쟁이 시작된다 &nbsp;&nbsp; 텀블벅",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9HTktFeFEwZks2dW1XVlRQVXc1bHA5MHptY1JqcE1jeUdWNnFEOVRabVBHOWtXZUhOaDkwNVRES296YndyaW9sUA?oc=5",
+      "publishedAt": "2026-10-21T20:42:11+09:00",
+      "source": "Google News RSS discovery",
+      "collectedAt": "2026-10-22T11:08:39.228710+09:00",
+      "metrics": {
+        "fundingPercent": null,
+        "supporters": null,
+        "price": null
+      },
+      "signal": "신규 소식",
+      "image": null
+    },
+    {
+      "id": "animate-discovery:https://news.google.com/rss/articles/CBMiggFBVV95cUxQY3ZZcm8tOTdLTkgtWm4tWW9YcWhhYUVjWTV2elhhS3pYZFIxbFhhNGJwYTUwUHBsWEJ4MzBDejh6YVdId2ZWaEE4UzZYNUswSmJyX3ZZcjZWN3ZPdUtTc1lvQ2hUVGtDWUNZTC1Ob3FETW1leURVSzNNRHlxd1FUWVl3?oc=5",
+      "channel": "애니메이트",
+      "type": "애니메이트",
+      "title": "【음악】 러브라이브! 하스노소라 여학원 스쿨 아이돌 클럽 2nd SPECIAL 앨범 「이리와! 이시카와 대관광 II」 - 애니메이트 온라인샵",
+      "summary": "【음악】 러브라이브! 하스노소라 여학원 스쿨 아이돌 클럽 2nd SPECIAL 앨범 「이리와! 이시카와 대관광 II」 &nbsp;&nbsp; 애니메이트 온라인샵",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQY3ZZcm8tOTdLTkgtWm4tWW9YcWhhYUVjWTV2elhhS3pYZFIxbFhhNGJwYTUwUHBsWEJ4MzBDejh6YVdId2ZWaEE4UzZYNUswSmJyX3ZZcjZWN3ZPdUtTc1lvQ2hUVGtDWUNZTC1Ob3FETW1leURVSzNNRHlxd1FUWVl3?oc=5",
+      "publishedAt": "2026-10-21T17:16:23+09:00",
+      "source": "Google News RSS discovery",
+      "collectedAt": "2026-10-22T11:08:44.137364+09:00",
+      "metrics": {
+        "fundingPercent": null,
+        "supporters": null,
+        "price": null
+      },
+      "signal": "신규 소식",
+      "image": null
+    },
+    {
+      "id": "bookstore-discovery:https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ZcE83UUZmWjhVWWhMN2ZaSWlIdFU2UUhHUGJCV2I4VGpSd19xX1B6c3BYUTBGM0pLd3l1MnYzVlVPZVlqVU1Ia0NmVWdBamdwcDhldUU1Qms?oc=5",
+      "channel": "온라인 서점",
+      "type": "서점",
+      "title": "RESCENE (리센느) - 미니앨범 4집 : PULSE [QR ver.][5종 중 1종 랜덤발송] | 리센느 | Stone Music Entertainment - 예스24",
+      "summary": "RESCENE (리센느) - 미니앨범 4집 : PULSE [QR ver.][5종 중 1종 랜덤발송] | 리센느 | Stone Music Entertainment &nbsp;&nbsp; 예스24",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ZcE83UUZmWjhVWWhMN2ZaSWlIdFU2UUhHUGJCV2I4VGpSd19xX1B6c3BYUTBGM0pLd3l1MnYzVlVPZVlqVU1Ia0NmVWdBamdwcDhldUU1Qms?oc=5",
+      "publishedAt": "2026-10-21T16:50:43+09:00",
+      "source": "Google News RSS discovery",
+      "collectedAt": "2026-10-22T11:08:46.448461+09:00",
+      "metrics": {
+        "fundingPercent": null,
+        "supporters": null,
+        "price": null
+      },
+      "signal": "신규 소식",
+      "image": null
+    },
+    {
+      "id": "bookstore-discovery:https://news.google.com/rss/articles/CBMiREFVX3lxTFBodFRWMGtEejNINXZMSVRaeVBlcXZGNzhYbTJxMkEzeml5TjFCRkdOTXo5R3NyNEQzQTFxQTlCRkhhWEpI?oc=5",
+      "channel": "온라인 서점",
+      "type": "서점",
+      "title": "[만화] 재담 『타조 수인의 엉망진창 무쌍』 1권 출간! - 예스24",
+      "summary": "[만화] 재담 『타조 수인의 엉망진창 무쌍』 1권 출간! &nbsp;&nbsp; 예스24",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBodFRWMGtEejNINXZMSVRaeVBlcXZGNzhYbTJxMkEzeml5TjFCRkdOTXo5R3NyNEQzQTFxQTlCRkhhWEpI?oc=5",
+      "publishedAt": "2026-10-21T12:45:00+09:00",
+      "source": "Google News RSS discovery",
+      "collectedAt": "2026-10-22T11:08:46.448461+09:00",
+      "metrics": {
+        "fundingPercent": null,
+        "supporters": null,
+        "price": null
+      },
+      "signal": "신규 소식",
+      "image": null
+    },
+    {
+      "id": "bookstore-discovery:https://news.google.com/rss/articles/CBMiWEFVX3lxTE0yczhmY0N2QzA5bUJtaUIwZV9uRmpMWjBvUHd0TmRlMzV4RUFtQ2p4Q3ZlYjZfNVd5OFZkUFBoUjB6TWJQcVlrQnlNd1gza3JoU0xndGM5Vno?oc=5",
+      "channel": "온라인 서점",
+      "type": "서점",
+      "title": "『한국사 이상현상 연구원』 출간 기념 이벤트 - 국현원 입사키트 - 예스24",
+      "summary": "『한국사 이상현상 연구원』 출간 기념 이벤트 - 국현원 입사키트 &nbsp;&nbsp; 예스24",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0yczhmY0N2QzA5bUJtaUIwZV9uRmpMWjBvUHd0TmRlMzV4RUFtQ2p4Q3ZlYjZfNVd5OFZkUFBoUjB6TWJQcVlrQnlNd1gza3JoU0xndGM5Vno?oc=5",
+      "publishedAt": "2026-10-21T12:12:00+09:00",
+      "source": "Google News RSS discovery",
+      "collectedAt": "2026-10-22T11:08:46.448461+09:00",
+      "metrics": {
+        "fundingPercent": null,
+        "supporters": null,
+        "price": null
+      },
+      "signal": "신규 소식",
+      "image": null
+    },
+    {
+      "id": "tumblbug-discovery:https://news.google.com/rss/articles/CBMiRkFVX3lxTE1yMTlHVEx5WEctT2JsQ19NQ1ZoY0hiTVVPQXJNaVMwYklwT0lkMFhOUlN3VXZpSTZHY1F2R0ZKR1FPd2xYSXc?oc=5",
+      "channel": "텀블벅",
+      "type": "펀딩",
+      "title": "토끼로 가득한 신비로운 무인도를 개척하자! - 텀블벅",
+      "summary": "토끼로 가득한 신비로운 무인도를 개척하자! &nbsp;&nbsp; 텀블벅",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1yMTlHVEx5WEctT2JsQ19NQ1ZoY0hiTVVPQXJNaVMwYklwT0lkMFhOUlN3VXZpSTZHY1F2R0ZKR1FPd2xYSXc?oc=5",
+      "publishedAt": "2026-10-21T06:57:08+09:00",
+      "source": "Google News RSS discovery",
+      "collectedAt": "2026-10-22T11:08:39.228710+09:00",
+      "metrics": {
+        "fundingPercent": null,
+        "supporters": null,
+        "price": null
+      },
+      "signal": "신규 소식",
+      "image": null
+    },
+    {
+      "id": "tumblbug-discovery:https://news.google.com/rss/articles/CBMiS0FVX3lxTE5QV0pqMXBhWGRNZ00tRVpBUHFmVkxWY1loY1pEUmZOLV9IWENtelQ5MzJia2RVX1kwRFp5QkM5ODM0b01nZXUzcFAyMA?oc=5",
+      "channel": "텀블벅",
+      "type": "펀딩",
+      "title": "2026 번개맨 생일기념 지하철 광고 - 텀블벅",
+      "summary": "2026 번개맨 생일기념 지하철 광고 &nbsp;&nbsp; 텀블벅",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5QV0pqMXBhWGRNZ00tRVpBUHFmVkxWY1loY1pEUmZOLV9IWENtelQ5MzJia2RVX1kwRFp5QkM5ODM0b01nZXUzcFAyMA?oc=5",
+      "publishedAt": "2026-10-20T23:58:48+09:00",
+      "source": "Google News RSS discovery",
+      "collectedAt": "2026-10-22T11:08:39.228710+09:00",
+      "metrics": {
+        "fundingPercent": null,
+        "supporters": null,
+        "price": null
+      },
+      "signal": "신규 소식",
+      "image": null
+    },
+    {
+      "id": "bookstore-discovery:https://news.google.com/rss/articles/CBMiREFVX3lxTE54ZHpFLVZ1OVNaQXQ5azhPcXJZSHFmMEFvZHB6YzNUMVl1R05ucWxLakcza0Fna1BtLUJ6RVctVFQ5RnN3?oc=5",
+      "channel": "온라인 서점",
+      "type": "서점",
+      "title": "[만화] 노엔코믹스 『악역 영애 레벨 99』 5권 UP! - 예스24",
+      "summary": "[만화] 노엔코믹스 『악역 영애 레벨 99』 5권 UP! &nbsp;&nbsp; 예스24",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE54ZHpFLVZ1OVNaQXQ5azhPcXJZSHFmMEFvZHB6YzNUMVl1R05ucWxLakcza0Fna1BtLUJ6RVctVFQ5RnN3?oc=5",
+      "publishedAt": "2026-10-20T10:27:46+09:00",
+      "source": "Google News RSS discovery",
+      "collectedAt": "2026-10-22T11:08:46.448461+09:00",
+      "metrics": {
+        "fundingPercent": null,
+        "supporters": null,
+        "price": null
+      },
+      "signal": "신규 소식",
+      "image": null
+    },
+    {
+      "id": "animate-discovery:https://news.google.com/rss/articles/CBMi9gFBVV95cUxPRWNSLUwzQ1RDNmUzOWE3aEdUeEI1N2FOU0pVUmN3V3NMamQwSzh6SGVFYjFfa2lXNXctVXFuZjZMWG4tU1lxcFQwNUlVSEF6eFZkQkE4MVRhbktVUkgwdjd2b3hFRE4wc2RMNHdBMjNLaWVKN25iNzNqMkpIZnVlWjRFRS1PWkRZV3BscVpUbFJ5VzU0MHplS1BwV3hMeXVtelBkcG00LVBuV0tZcjllWDNSQ0VDYW5XR0NQR0FJdkJZVTJiY2xMRkRnN2V4Y09tUEhtWC1faFNDLURNc3phWlVKMjRZSUY1VXBrNUpVSnhrcTZlbUE?oc=5",
+      "channel": "애니메이트",
+      "type": "애니메이트",
+      "title": "【굿즈-코롯타】 은혼 애니판 B6 코롯토 아크릴 블록 컬렉션 현대 (랜덤) - 애니메이트코리아 온라인샵",
+      "summary": "【굿즈-코롯타】 은혼 애니판 B6 코롯토 아크릴 블록 컬렉션 현대 (랜덤) &nbsp;&nbsp; 애니메이트코리아 온라인샵",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPRWNSLUwzQ1RDNmUzOWE3aEdUeEI1N2FOU0pVUmN3V3NMamQwSzh6SGVFYjFfa2lXNXctVXFuZjZMWG4tU1lxcFQwNUlVSEF6eFZkQkE4MVRhbktVUkgwdjd2b3hFRE4wc2RMNHdBMjNLaWVKN25iNzNqMkpIZnVlWjRFRS1PWkRZV3BscVpUbFJ5VzU0MHplS1BwV3hMeXVtelBkcG00LVBuV0tZcjllWDNSQ0VDYW5XR0NQR0FJdkJZVTJiY2xMRkRnN2V4Y09tUEhtWC1faFNDLURNc3phWlVKMjRZSUY1VXBrNUpVSnhrcTZlbUE?oc=5",
+      "publishedAt": "2026-10-19T17:33:36+09:00",
+      "source": "Google News RSS discovery",
+      "collectedAt": "2026-10-22T11:08:44.137364+09:00",
+      "metrics": {
+        "fundingPercent": null,
+        "supporters": null,
+        "price": null
+      },
+      "signal": "신규 소식",
+      "image": null
+    },
+    {
+      "id": "animate-discovery:https://news.google.com/rss/articles/CBMi9gFBVV95cUxNMXRfVXZ5LUp5T3JKZlM5OUNYNFRBTlN6QlBRZ2ZqUFA5TDBrU19IbUZxZ2YydnliUUo4OENOUTBKd2hJOTBHb0ptUW1jUE9RQll3bkQ0U1dsUjQwNzVjRGgxU09ha2I2aWs0TlE4dVJmVzRSV2ZmUU9UM3pjSDEtTFZjVEIxdWZ3Tnd3ODJ5d3hRVHcyWXhYNVBlY0ZON3AteC00Q3JIUGd5aUVQZWRGbVloQTVKdXc2aXhVaWtqREVfR0tYRHpJczFOLVprbVdUWFF3UDBZZEdXZXlSRllDWUNXNVNROHR3WndjRG9QdU8wRFlDQ2c?oc=5",
+      "channel": "애니메이트",
+      "type": "애니메이트",
+      "title": "【굿즈-아크릴스탠드】 은혼 애니판 아크릴스탠드 사카타 긴토키 현대 - 애니메이트코리아 온라인샵",
+      "summary": "【굿즈-아크릴스탠드】 은혼 애니판 아크릴스탠드 사카타 긴토키 현대 &nbsp;&nbsp; 애니메이트코리아 온라인샵",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNMXRfVXZ5LUp5T3JKZlM5OUNYNFRBTlN6QlBRZ2ZqUFA5TDBrU19IbUZxZ2YydnliUUo4OENOUTBKd2hJOTBHb0ptUW1jUE9RQll3bkQ0U1dsUjQwNzVjRGgxU09ha2I2aWs0TlE4dVJmVzRSV2ZmUU9UM3pjSDEtTFZjVEIxdWZ3Tnd3ODJ5d3hRVHcyWXhYNVBlY0ZON3AteC00Q3JIUGd5aUVQZWRGbVloQTVKdXc2aXhVaWtqREVfR0tYRHpJczFOLVprbVdUWFF3UDBZZEdXZXlSRllDWUNXNVNROHR3WndjRG9QdU8wRFlDQ2c?oc=5",
+      "publishedAt": "2026-10-19T17:33:35+09:00",
+      "source": "Google News RSS discovery",
+      "collectedAt": "2026-10-22T11:08:44.137364+09:00",
+      "metrics": {
+        "fundingPercent": null,
+        "supporters": null,
+        "price": null
+      },
+      "signal": "신규 소식",
+      "image": null
+    },
+    {
+      "id": "bookstore-discovery:https://news.google.com/rss/articles/CBMiREFVX3lxTE1HV1AzTzdrSXNIem5WSFYydk9ldll0VmJ5RFI2ZlBPemNpZ1JhWHdRRnc0V3NfYVlyZWxJVkRTQVhyZEs1?oc=5",
+      "channel": "온라인 서점",
+      "type": "서점",
+      "title": "[만화] 서울미디어코믹스 『안경, 때때로, 불량아』 11권 UP! - 예스24",
+      "summary": "[만화] 서울미디어코믹스 『안경, 때때로, 불량아』 11권 UP! &nbsp;&nbsp; 예스24",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1HV1AzTzdrSXNIem5WSFYydk9ldll0VmJ5RFI2ZlBPemNpZ1JhWHdRRnc0V3NfYVlyZWxJVkRTQVhyZEs1?oc=5",
+      "publishedAt": "2026-10-19T10:02:46+09:00",
+      "source": "Google News RSS discovery",
+      "collectedAt": "2026-10-22T11:08:46.448461+09:00",
+      "metrics": {
+        "fundingPercent": null,
+        "supporters": null,
+        "price": null
+      },
+      "signal": "신규 소식",
+      "image": null
+    },
+    {
+      "id": "bookstore-discovery:https://news.google.com/rss/articles/CBMiREFVX3lxTFBTQmd3MGRHUUFZWFNhaVhPOHlqR0VsRkJaNVFDVHBjWkZRQnNVTzduZUtHMlQybGNrY2lrTTFNaTVHZzlr?oc=5",
+      "channel": "온라인 서점",
+      "type": "서점",
+      "title": "[만화] 시프트코믹스 『스킵과 로퍼』 13권 UP! - 예스24",
+      "summary": "[만화] 시프트코믹스 『스킵과 로퍼』 13권 UP! &nbsp;&nbsp; 예스24",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBTQmd3MGRHUUFZWFNhaVhPOHlqR0VsRkJaNVFDVHBjWkZRQnNVTzduZUtHMlQybGNrY2lrTTFNaTVHZzlr?oc=5",
+      "publishedAt": "2026-10-19T08:04:06+09:00",
+      "source": "Google News RSS discovery",
+      "collectedAt": "2026-10-22T11:08:46.448461+09:00",
+      "metrics": {
+        "fundingPercent": null,
+        "supporters": null,
+        "price": null
+      },
+      "signal": "신규 소식",
+      "image": null
+    },
+    {
+      "id": "tumblbug-discovery:https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wZXZXUjlKMGVFa013ekcwb1lSSHliSndOVmdRNzJpdk5QLUxGY21ZSXRwUWNvSUVWN2hoeXNtZXhuRVRoNzlUZERGczFRdW1SaEF3YXN1Nno5Um8?oc=5",
+      "channel": "텀블벅",
+      "type": "펀딩",
+      "title": "솔로 머더미스터리 [저승길] - 텀블벅",
+      "summary": "솔로 머더미스터리 [저승길] &nbsp;&nbsp; 텀블벅",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wZXZXUjlKMGVFa013ekcwb1lSSHliSndOVmdRNzJpdk5QLUxGY21ZSXRwUWNvSUVWN2hoeXNtZXhuRVRoNzlUZERGczFRdW1SaEF3YXN1Nno5Um8?oc=5",
+      "publishedAt": "2026-10-18T18:30:12+09:00",
+      "source": "Google News RSS discovery",
+      "collectedAt": "2026-10-22T11:08:39.228710+09:00",
+      "metrics": {
+        "fundingPercent": null,
+        "supporters": null,
+        "price": null
+      },
+      "signal": "신규 소식",
+      "image": null
+    },
+    {
+      "id": "animate-discovery:https://news.google.com/rss/articles/CBMiggFBVV95cUxNR1lYVmk5S2dKMVdKNTExUktVOGpJRkdkcWVGdUZ5ZDV3UEFLUFVydW56cmRlM3lLYWJMQkM4cmI0SWlQMjlSeWs0Q043Q01nU0RJZHVTbnZheVIzbXVaV2xYSkZROG4tQzZKOHphckpUdTR3Z3FuUF9TX2p4SkNGcFd3?oc=5",
+      "channel": "애니메이트",
+      "type": "애니메이트",
+      "title": "【굿즈-뱃지】 세포신곡 B6 캔뱃지 11 하라주쿠계 패션ver. (신규 일러스트) - 애니메이트코리아 온라인샵",
+      "summary": "【굿즈-뱃지】 세포신곡 B6 캔뱃지 11 하라주쿠계 패션ver. (신규 일러스트) &nbsp;&nbsp; 애니메이트코리아 온라인샵",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNR1lYVmk5S2dKMVdKNTExUktVOGpJRkdkcWVGdUZ5ZDV3UEFLUFVydW56cmRlM3lLYWJMQkM4cmI0SWlQMjlSeWs0Q043Q01nU0RJZHVTbnZheVIzbXVaV2xYSkZROG4tQzZKOHphckpUdTR3Z3FuUF9TX2p4SkNGcFd3?oc=5",
+      "publishedAt": "2026-10-17T13:00:11+09:00",
+      "source": "Google News RSS discovery",
+      "collectedAt": "2026-10-22T11:08:44.137364+09:00",
+      "metrics": {
+        "fundingPercent": null,
+        "supporters": null,
+        "price": null
+      },
+      "signal": "신규 소식",
+      "image": null
+    },
+    {
+      "id": "animate-discovery:https://news.google.com/rss/articles/CBMiggFBVV95cUxPc3IwaWJiR2hVQi1iOEo5aV9SS05ldVczcGo1TnRyQTh5eWhaRkc3dFBmbEVQNS12TlNseGlWYUFqT0JEMElHRF9ObVp5VEtSTVFMMVE2a0xvcTk5N0loU3Qya1ZPelJkeExrUG1qc2lBX1poMFJpZFZJekptTWtEOUVB?oc=5",
+      "channel": "애니메이트",
+      "type": "애니메이트",
+      "title": "【굿즈-뱃지】 세포신곡 B9 캔뱃지 12 하라주쿠계 패션ver. (그래프 아트 일러스트) - 애니메이트코리아 온라인샵",
+      "summary": "【굿즈-뱃지】 세포신곡 B9 캔뱃지 12 하라주쿠계 패션ver. (그래프 아트 일러스트) &nbsp;&nbsp; 애니메이트코리아 온라인샵",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPc3IwaWJiR2hVQi1iOEo5aV9SS05ldVczcGo1TnRyQTh5eWhaRkc3dFBmbEVQNS12TlNseGlWYUFqT0JEMElHRF9ObVp5VEtSTVFMMVE2a0xvcTk5N0loU3Qya1ZPelJkeExrUG1qc2lBX1poMFJpZFZJekptTWtEOUVB?oc=5",
+      "publishedAt": "2026-10-17T12:59:32+09:00",
+      "source": "Google News RSS discovery",
+      "collectedAt": "2026-10-22T11:08:44.137364+09:00",
+      "metrics": {
+        "fundingPercent": null,
+        "supporters": null,
+        "price": null
+      },
+      "signal": "신규 소식",
+      "image": null
+    },
+    {
+      "id": "animate-discovery:https://news.google.com/rss/articles/CBMiggFBVV95cUxPckRHdjdVYlZkVEtublhNU2tjNy05RXFWZFQxbm5tc2xYOUdFejl1NVdKdmJSZFdfNWIwYXlvY3ZxTE9LZWJ6NUozQzJKRXlncnJhSVFRUHdtR1d1bm12SEZOci0yNk1SQm5OWVNUYktRY05md1E1Zzg2SUY2SjNLLW53?oc=5",
+      "channel": "애니메이트",
+      "type": "애니메이트",
+      "title": "【굿즈-뱃지】 나 혼자만 레벨업 애니판 B6 트레이딩 캔뱃지 dress ver. (랜덤) - 애니메이트코리아 온라인샵",
+      "summary": "【굿즈-뱃지】 나 혼자만 레벨업 애니판 B6 트레이딩 캔뱃지 dress ver. (랜덤) &nbsp;&nbsp; 애니메이트코리아 온라인샵",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPckRHdjdVYlZkVEtublhNU2tjNy05RXFWZFQxbm5tc2xYOUdFejl1NVdKdmJSZFdfNWIwYXlvY3ZxTE9LZWJ6NUozQzJKRXlncnJhSVFRUHdtR1d1bm12SEZOci0yNk1SQm5OWVNUYktRY05md1E1Zzg2SUY2SjNLLW53?oc=5",
+      "publishedAt": "2026-10-17T04:47:26+09:00",
+      "source": "Google News RSS discovery",
+      "collectedAt": "2026-10-22T11:08:44.137364+09:00",
+      "metrics": {
+        "fundingPercent": null,
+        "supporters": null,
+        "price": null
+      },
+      "signal": "신규 소식",
+      "image": null
+    },
+    {
+      "id": "wadiz-discovery:https://news.google.com/rss/articles/CBMihwFBVV95cUxQbTI2dWhzMHNlVjk3RnY5UXNqN29uVVloNGxlYkxuMnZwQVZpRnJHUEJ1TFpUY2duV241eXh1YVlGVnE3ODAwQUMzTDBHUWF4akFpcTRGNXVZNEdkQW5uOFo3V19FcUJSUkM5X3NROWpRUzJDcG11OEZJQmhycEo2bzduTWVXelU?oc=5",
+      "channel": "와디즈",
+      "type": "펀딩",
+      "title": "굿바이~ 문콕! 차량용 프리미엄 도어가드 GP-01 by 오정숙 | 와디즈 - wadiz",
+      "summary": "굿바이~ 문콕! 차량용 프리미엄 도어가드 GP-01 by 오정숙 | 와디즈 &nbsp;&nbsp; wadiz",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbTI2dWhzMHNlVjk3RnY5UXNqN29uVVloNGxlYkxuMnZwQVZpRnJHUEJ1TFpUY2duV241eXh1YVlGVnE3ODAwQUMzTDBHUWF4akFpcTRGNXVZNEdkQW5uOFo3V19FcUJSUkM5X3NROWpRUzJDcG11OEZJQmhycEo2bzduTWVXelU?oc=5",
+      "publishedAt": "2026-10-16T04:38:06+09:00",
+      "source": "Google News RSS discovery",
+      "collectedAt": "2026-10-22T11:08:41.633319+09:00",
+      "metrics": {
+        "fundingPercent": null,
+        "supporters": null,
+        "price": null
+      },
+      "signal": "신규 소식",
+      "image": null
+    },
+    {
+      "id": "bookstore-discovery:https://news.google.com/rss/articles/CBMiYkFVX3lxTFBRU3duaENKd3BnUVJXdFpBcmtPVG80cHYwa3F3TlZzLURWQWllVXRraUwtVUxlRkNWTFp4Z0QzQlZ0MzlEQmJyQXA3aHdJY2pBQTNpMTR2M0c0QkFLd2JYLVp3?oc=5",
+      "channel": "온라인 서점",
+      "type": "서점",
+      "title": "죽음 리허설 - 국내도서",
+      "summary": "죽음 리허설 &nbsp;&nbsp; 국내도서",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBRU3duaENKd3BnUVJXdFpBcmtPVG80cHYwa3F3TlZzLURWQWllVXRraUwtVUxlRkNWTFp4Z0QzQlZ0MzlEQmJyQXA3aHdJY2pBQTNpMTR2M0c0QkFLd2JYLVp3?oc=5",
+      "publishedAt": "2026-10-15T22:09:28+09:00",
+      "source": "Google News RSS discovery",
+      "collectedAt": "2026-10-22T11:08:46.448461+09:00",
+      "metrics": {
+        "fundingPercent": null,
+        "supporters": null,
+        "price": null
+      },
+      "signal": "신규 소식",
+      "image": null
+    },
+    {
+      "id": "wadiz-discovery:https://news.google.com/rss/articles/CBMihAFBVV95cUxOTEU5NHlpaWhiOEl6dl9BcGNYRXdjaEgxQ2RyVnNYdWhwSF9uWTd6R1B4MGhJcUZEc1JkaFp0Z1loSVI5RHNiMldFNW1sSGp2U0xjaUVMWVlVQlctOGFpVVVBMTNjc3gyQjJaa2duVjRidnFyT0Rxd2tibDN0Q3M2RXZYQmE?oc=5",
+      "channel": "와디즈",
+      "type": "펀딩",
+      "title": "[6차앵콜] 손으로 잡고 뜯어먹는 통 수비드 척아이롤 스테이크 by 쥬빌레푸드 - wadiz",
+      "summary": "[6차앵콜] 손으로 잡고 뜯어먹는 통 수비드 척아이롤 스테이크 by 쥬빌레푸드 &nbsp;&nbsp; wadiz",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTEU5NHlpaWhiOEl6dl9BcGNYRXdjaEgxQ2RyVnNYdWhwSF9uWTd6R1B4MGhJcUZEc1JkaFp0Z1loSVI5RHNiMldFNW1sSGp2U0xjaUVMWVlVQlctOGFpVVVBMTNjc3gyQjJaa2duVjRidnFyT0Rxd2tibDN0Q3M2RXZYQmE?oc=5",
+      "publishedAt": "2026-10-15T16:38:51+09:00",
+      "source": "Google News RSS discovery",
+      "collectedAt": "2026-10-22T11:08:41.633319+09:00",
+      "metrics": {
+        "fundingPercent": null,
+        "supporters": null,
+        "price": null
+      },
+      "signal": "신규 소식",
+      "image": null
+    },
+    {
+      "id": "wadiz-discovery:https://news.google.com/rss/articles/CBMipAFBVV95cUxObEFZRlU3OFI3U1E4WVRuLVpQWXNRbFB6eEVFRDQ5UGlnRDhZcldKcEtNQm9oZjJKaVdfVndnekFGZmlxRkZWc0Vld0RYVGw5Q0hwblVXRUQ4emZnVFg2Vnh1bldvVVF2Znp0TU9xQlMzTU1oSFZUUG5rRHFvWWVmYUdfcWVMbDhqSmNhRkJMSWNvMWctRzNNVGtfSGUtZmI5WExyZA?oc=5",
+      "channel": "와디즈",
+      "type": "펀딩",
+      "title": "김연주 님이 이 프로젝트를 응원해요 🥰 [강남 입소문템] 에스테틱 왜 가세요? 모르면 손해보는 피부결 좋아지는법 | 와디즈 - wadiz",
+      "summary": "김연주 님이 이 프로젝트를 응원해요 🥰 [강남 입소문템] 에스테틱 왜 가세요? 모르면 손해보는 피부결 좋아지는법 | 와디즈 &nbsp;&nbsp; wadiz",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObEFZRlU3OFI3U1E4WVRuLVpQWXNRbFB6eEVFRDQ5UGlnRDhZcldKcEtNQm9oZjJKaVdfVndnekFGZmlxRkZWc0Vld0RYVGw5Q0hwblVXRUQ4emZnVFg2Vnh1bldvVVF2Znp0TU9xQlMzTU1oSFZUUG5rRHFvWWVmYUdfcWVMbDhqSmNhRkJMSWNvMWctRzNNVGtfSGUtZmI5WExyZA?oc=5",
+      "publishedAt": "2026-10-15T11:52:14+09:00",
+      "source": "Google News RSS discovery",
+      "collectedAt": "2026-10-22T11:08:41.635315+09:00",
+      "metrics": {
+        "fundingPercent": null,
+        "supporters": null,
+        "price": null
+      },
+      "signal": "신규 소식",
+      "image": null
+    },
+    {
+      "id": "animate-discovery:https://news.google.com/rss/articles/CBMiggFBVV95cUxOX1FHNElOUEszWS1LQ3JZRERmQVhtMmNSVl9yMVRPeHdneFV4WFBkMmZwS0E0QVVaU1JLUkJaVEdrUG4xckg3cG9rdW5TeEp2NHRoeVR4X09hVkVvTGRzR00tTEhKU1NyUGVkLTBfa2FZSEx6dm55SWZEbHVaeHpNZWJn?oc=5",
+      "channel": "애니메이트",
+      "type": "애니메이트",
+      "title": "【굿즈-뱃지】 나 혼자만 레벨업 애니판 B10 트레이딩 캔뱃지 미니 캐릭터 (랜덤) - 애니메이트코리아 온라인샵",
+      "summary": "【굿즈-뱃지】 나 혼자만 레벨업 애니판 B10 트레이딩 캔뱃지 미니 캐릭터 (랜덤) &nbsp;&nbsp; 애니메이트코리아 온라인샵",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOX1FHNElOUEszWS1LQ3JZRERmQVhtMmNSVl9yMVRPeHdneFV4WFBkMmZwS0E0QVVaU1JLUkJaVEdrUG4xckg3cG9rdW5TeEp2NHRoeVR4X09hVkVvTGRzR00tTEhKU1NyUGVkLTBfa2FZSEx6dm55SWZEbHVaeHpNZWJn?oc=5",
+      "publishedAt": "2026-10-15T06:02:17+09:00",
+      "source": "Google News RSS discovery",
+      "collectedAt": "2026-10-22T11:08:44.137364+09:00",
+      "metrics": {
+        "fundingPercent": null,
+        "supporters": null,
+        "price": null
+      },
+      "signal": "신규 소식",
+      "image": null
+    },
+    {
+      "id": "wadiz-discovery:https://news.google.com/rss/articles/CBMipAFBVV95cUxPWjJ6aGt0ekd1SDcxMjFtM0Q2ejlwUVNlMzlmeWlqZUdKVUFQNlZacWoteF9naG5NVzN4VkFYZVhjT2VRZVBaMFBZbW95aVFrMkRzRnE5NDVpWDhaRC1uQ1FkQ0k1eHg2MlpQMS1qMHhITlhDWk1IcFhuVGxBWTlZTlRyWW1OS2ZDUEhObUdHUUlCNk82UkxCejcwR3BSNXdKdlRDRA?oc=5",
+      "channel": "와디즈",
+      "type": "펀딩",
+      "title": "신해람 님이 이 프로젝트를 응원해요 🥰 [강남 입소문템] 에스테틱 왜 가세요? 모르면 손해보는 피부결 좋아지는법 | 와디즈 - wadiz",
+      "summary": "신해람 님이 이 프로젝트를 응원해요 🥰 [강남 입소문템] 에스테틱 왜 가세요? 모르면 손해보는 피부결 좋아지는법 | 와디즈 &nbsp;&nbsp; wadiz",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWjJ6aGt0ekd1SDcxMjFtM0Q2ejlwUVNlMzlmeWlqZUdKVUFQNlZacWoteF9naG5NVzN4VkFYZVhjT2VRZVBaMFBZbW95aVFrMkRzRnE5NDVpWDhaRC1uQ1FkQ0k1eHg2MlpQMS1qMHhITlhDWk1IcFhuVGxBWTlZTlRyWW1OS2ZDUEhObUdHUUlCNk82UkxCejcwR3BSNXdKdlRDRA?oc=5",
+      "publishedAt": "2026-10-15T05:13:03+09:00",
+      "source": "Google News RSS discovery",
+      "collectedAt": "2026-10-22T11:08:41.635315+09:00",
+      "metrics": {
+        "fundingPercent": null,
+        "supporters": null,
+        "price": null
+      },
+      "signal": "신규 소식",
+      "image": null
+    },
+    {
+      "id": "wadiz-discovery:https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uMkdPS3hQc1RVbmtjYURuNlNVS0pYaThuN2FBN3hYdTAzOFVxdGkzZ08tVGFqbG84bEtQUkVaOFpnUWtobWg0SFZ3a1hJUDVTbmNnNA?oc=5",
+      "channel": "와디즈",
+      "type": "펀딩",
+      "title": "박윤정 님이 이 프로젝트를 응원해요 🥰 [강남 입소문템] 에스테틱 왜 가세요? 모르면 손해보는 피부결 좋아지는법 | 와디즈 - wadiz",
+      "summary": "박윤정 님이 이 프로젝트를 응원해요 🥰 [강남 입소문템] 에스테틱 왜 가세요? 모르면 손해보는 피부결 좋아지는법 | 와디즈 &nbsp;&nbsp; wadiz",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uMkdPS3hQc1RVbmtjYURuNlNVS0pYaThuN2FBN3hYdTAzOFVxdGkzZ08tVGFqbG84bEtQUkVaOFpnUWtobWg0SFZ3a1hJUDVTbmNnNA?oc=5",
+      "publishedAt": "2026-10-15T05:13:02+09:00",
+      "source": "Google News RSS discovery",
+      "collectedAt": "2026-10-22T11:08:41.635315+09:00",
+      "metrics": {
+        "fundingPercent": null,
+        "supporters": null,
+        "price": null
+      },
+      "signal": "신규 소식",
+      "image": null
+    },
+    {
+      "id": "wadiz-discovery:https://news.google.com/rss/articles/CBMihgFBVV95cUxPZDhxYldub0REaUIyVlI0ZTNwdGtvSEI1MkxsSS0zX0ZLWjFxTElzNFVyTV9MOWV1dGcxZDhpRkhGWUdwMnhLQXdRVDB3aDhYR0I0UGowZExnS0U4MVlwMktZTEtScWx5RFVVVXBMcDJhdF9qTlJ6bUZRNmhta2VZLXd2TG9lUQ?oc=5",
+      "channel": "와디즈",
+      "type": "펀딩",
+      "title": "펀딩 전 후기 검색은 필수. 15,000개 후기가 인정한 만랩 보풀제거기 by 트루비온주식회사 - wadiz",
+      "summary": "펀딩 전 후기 검색은 필수. 15,000개 후기가 인정한 만랩 보풀제거기 by 트루비온주식회사 &nbsp;&nbsp; wadiz",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZDhxYldub0REaUIyVlI0ZTNwdGtvSEI1MkxsSS0zX0ZLWjFxTElzNFVyTV9MOWV1dGcxZDhpRkhGWUdwMnhLQXdRVDB3aDhYR0I0UGowZExnS0U4MVlwMktZTEtScWx5RFVVVXBMcDJhdF9qTlJ6bUZRNmhta2VZLXd2TG9lUQ?oc=5",
+      "publishedAt": "2026-10-14T21:42:15+09:00",
+      "source": "Google News RSS discovery",
+      "collectedAt": "2026-10-22T11:08:41.634318+09:00",
+      "metrics": {
+        "fundingPercent": null,
+        "supporters": null,
+        "price": null
+      },
+      "signal": "신규 소식",
+      "image": null
+    },
+    {
+      "id": "wadiz-discovery:https://news.google.com/rss/articles/CBMipAFBVV95cUxOTUlWenRHQUhKb0pKWEhKaDJUa2dxY1l4cWhzNmw2aGpLOTVWdHJNYzg5N0pSdjgwczlXTDlXdEtfTFgzV1k4NFl3dnZScDFfWExoMkxwbU9JSkVUb0dpaWNPajFCOGJHOGo5bTMxR1dQdWRiNzVFbG9ST1dYdXJZZTcxR0M2b3dwcUhaVXZoZGxTR2F3dHRWZUMyb19TNFdyM0hVeg?oc=5",
+      "channel": "와디즈",
+      "type": "펀딩",
+      "title": "최다혜 님이 이 프로젝트를 응원해요 🥰 [10초 발열]입자마자 후끈후끈 50도! 겨울대비 세탁가능 전기장판조끼 | 와디즈 - wadiz",
+      "summary": "최다혜 님이 이 프로젝트를 응원해요 🥰 [10초 발열]입자마자 후끈후끈 50도! 겨울대비 세탁가능 전기장판조끼 | 와디즈 &nbsp;&nbsp; wadiz",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTUlWenRHQUhKb0pKWEhKaDJUa2dxY1l4cWhzNmw2aGpLOTVWdHJNYzg5N0pSdjgwczlXTDlXdEtfTFgzV1k4NFl3dnZScDFfWExoMkxwbU9JSkVUb0dpaWNPajFCOGJHOGo5bTMxR1dQdWRiNzVFbG9ST1dYdXJZZTcxR0M2b3dwcUhaVXZoZGxTR2F3dHRWZUMyb19TNFdyM0hVeg?oc=5",
+      "publishedAt": "2026-10-14T21:05:35+09:00",
+      "source": "Google News RSS discovery",
+      "collectedAt": "2026-10-22T11:08:41.633319+09:00",
+      "metrics": {
+        "fundingPercent": null,
+        "supporters": null,
+        "price": null
+      },
+      "signal": "신규 소식",
+      "image": null
+    },
+    {
+      "id": "animate-discovery:https://news.google.com/rss/articles/CBMiggFBVV95cUxPZ3Yxa1BUREFlZjVRd0dsajRXN2hHN0VWNXozbnUyRHplVzBWU3RqYnp6NGJ6ZU9WZlV4M3JUbDVDdDZBQ2tUQTNJNThvTlN5MmdTLVE0Nll5OEowSTFuYjdaaU10d0xsMVgtTmF0cU1VeWdod2t2dWN5OW1kZ3ZGZnNB?oc=5",
+      "channel": "애니메이트",
+      "type": "애니메이트",
+      "title": "【굿즈-색지】 은혼 B6 미니 색지 01 트레이딩 (랜덤) (신규 일러스트) - 애니메이트코리아 온라인샵",
+      "summary": "【굿즈-색지】 은혼 B6 미니 색지 01 트레이딩 (랜덤) (신규 일러스트) &nbsp;&nbsp; 애니메이트코리아 온라인샵",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZ3Yxa1BUREFlZjVRd0dsajRXN2hHN0VWNXozbnUyRHplVzBWU3RqYnp6NGJ6ZU9WZlV4M3JUbDVDdDZBQ2tUQTNJNThvTlN5MmdTLVE0Nll5OEowSTFuYjdaaU10d0xsMVgtTmF0cU1VeWdod2t2dWN5OW1kZ3ZGZnNB?oc=5",
+      "publishedAt": "2026-10-14T12:39:32+09:00",
+      "source": "Google News RSS discovery",
+      "collectedAt": "2026-10-22T11:08:44.137364+09:00",
+      "metrics": {
+        "fundingPercent": null,
+        "supporters": null,
+        "price": null
+      },
+      "signal": "신규 소식",
+      "image": null
+    },
+    {
+      "id": "wadiz-discovery:https://news.google.com/rss/articles/CBMia0FVX3lxTE5sdkliaUk5RWdYYXBiTzNWNU4zblB2Q245TDM2bXRLYnVSXzd6a3NtQ1ZLa0Q3cXBVWTE5NEt0LUZpUGcwWkc0SUJUb0h6WmV0cVRZcDA2NW9fXzEzeGg4V0VWUGFpRk44QlhF?oc=5",
+      "channel": "와디즈",
+      "type": "펀딩",
+      "title": "쵸비 님이 이 프로젝트를 응원해요 🥰 모공 고민 없으면 들어오지 마세요, 모공 임상만 8종! 진짜 모공세럼 | 와디즈 - wadiz",
+      "summary": "쵸비 님이 이 프로젝트를 응원해요 🥰 모공 고민 없으면 들어오지 마세요, 모공 임상만 8종! 진짜 모공세럼 | 와디즈 &nbsp;&nbsp; wadiz",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5sdkliaUk5RWdYYXBiTzNWNU4zblB2Q245TDM2bXRLYnVSXzd6a3NtQ1ZLa0Q3cXBVWTE5NEt0LUZpUGcwWkc0SUJUb0h6WmV0cVRZcDA2NW9fXzEzeGg4V0VWUGFpRk44QlhF?oc=5",
+      "publishedAt": "2026-10-14T07:03:12+09:00",
+      "source": "Google News RSS discovery",
+      "collectedAt": "2026-10-22T11:08:41.634318+09:00",
+      "metrics": {
+        "fundingPercent": null,
+        "supporters": null,
+        "price": null
+      },
+      "signal": "신규 소식",
+      "image": null
+    },
+    {
+      "id": "wadiz-discovery:https://news.google.com/rss/articles/CBMihAFBVV95cUxPTDk5SkZOTTh5UjBZaGYxQlRTR3I2aWZQN1hhTTkzUjJXOXhhSlFMelJvSm9vNksxQm9kbEhyT2ozcndURVYtLTNuUzYwWlhiSld5M3pYcUYyRGYxZFZCVW1VelVaeXY3UjFMNzdzTmk5Nm5YMW9rYjZYTng0VDRXZmtBVmc?oc=5",
+      "channel": "와디즈",
+      "type": "펀딩",
+      "title": "[해리포터 25주년] 와디즈 단독, 공식 DIY 굿즈 스페셜 에디션 6종 by 에어로코리아 (주) - wadiz",
+      "summary": "[해리포터 25주년] 와디즈 단독, 공식 DIY 굿즈 스페셜 에디션 6종 by 에어로코리아 (주) &nbsp;&nbsp; wadiz",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTDk5SkZOTTh5UjBZaGYxQlRTR3I2aWZQN1hhTTkzUjJXOXhhSlFMelJvSm9vNksxQm9kbEhyT2ozcndURVYtLTNuUzYwWlhiSld5M3pYcUYyRGYxZFZCVW1VelVaeXY3UjFMNzdzTmk5Nm5YMW9rYjZYTng0VDRXZmtBVmc?oc=5",
+      "publishedAt": "2026-10-13T18:13:23+09:00",
+      "source": "Google News RSS discovery",
+      "collectedAt": "2026-10-22T11:08:41.633319+09:00",
+      "metrics": {
+        "fundingPercent": null,
+        "supporters": null,
+        "price": null
+      },
+      "signal": "신규 소식",
+      "image": null
+    },
+    {
+      "id": "bookstore-discovery:https://news.google.com/rss/articles/CBMibEFVX3lxTE5EeWVQU2pQTVJ1cFZSUHJFejBINkJYckUzd0lLbHl5Sy1xYWVSZGhBcXU4dWI2LU9aNUFkVllvZUxvRkRrQklhRGZ0b3lnLXZSQ1BlVE0wNzU1U1hKc3FWa3NkSTk0SExfX3Bldw?oc=5",
+      "channel": "온라인 서점",
+      "type": "서점",
+      "title": "리센느 - 미니 4집 PULSE (Limited ver.) - 알라딘",
+      "summary": "리센느 - 미니 4집 PULSE (Limited ver.) &nbsp;&nbsp; 알라딘",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EeWVQU2pQTVJ1cFZSUHJFejBINkJYckUzd0lLbHl5Sy1xYWVSZGhBcXU4dWI2LU9aNUFkVllvZUxvRkRrQklhRGZ0b3lnLXZSQ1BlVE0wNzU1U1hKc3FWa3NkSTk0SExfX3Bldw?oc=5",
+      "publishedAt": "2026-10-13T16:00:00+09:00",
+      "source": "Google News RSS discovery",
+      "collectedAt": "2026-10-22T11:08:46.448461+09:00",
+      "metrics": {
+        "fundingPercent": null,
+        "supporters": null,
+        "price": null
+      },
+      "signal": "신규 소식",
+      "image": null
+    },
+    {
+      "id": "bookstore-discovery:https://news.google.com/rss/articles/CBMiWEFVX3lxTE1qUnN5cjJQM054RVBMYldTQlJ3R3pqZVJzYk9mRGdOcU1RWk5Ic0xDTVEyM3B0VmVIVkFFc3duSlVMVWtUbmZzZjV1M1A4S2IwR2QzdEtaVFY?oc=5",
+      "channel": "온라인 서점",
+      "type": "서점",
+      "title": "RESCENE (리센느) - 미니앨범 4집 : PULSE [Limited ver.] | 리센느 | Stone Music Entertainment - 예스24",
+      "summary": "RESCENE (리센느) - 미니앨범 4집 : PULSE [Limited ver.] | 리센느 | Stone Music Entertainment &nbsp;&nbsp; 예스24",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1qUnN5cjJQM054RVBMYldTQlJ3R3pqZVJzYk9mRGdOcU1RWk5Ic0xDTVEyM3B0VmVIVkFFc3duSlVMVWtUbmZzZjV1M1A4S2IwR2QzdEtaVFY?oc=5",
+      "publishedAt": "2026-10-13T12:54:58+09:00",
+      "source": "Google News RSS discovery",
+      "collectedAt": "2026-10-22T11:08:46.448461+09:00",
+      "metrics": {
+        "fundingPercent": null,
+        "supporters": null,
+        "price": null
+      },
+      "signal": "신규 소식",
+      "image": null
+    },
+    {
+      "id": "animate-discovery:https://news.google.com/rss/articles/CBMiggFBVV95cUxOa0FOVHUxcnh0SG84MS0zX2w2dGR3UEVHRWpmdEZQTnhtMnlsM3FaSFhNampURVlYSm5rUXdNMHoyR05rVXdNTXhYQlVJNWFrM0Q2dU1iR1cwMk1yWE5uWGtmY2NSdUlkRGZIS2xUNE51bkxnOFhldlk0WHQzX1Fkb053?oc=5",
+      "channel": "애니메이트",
+      "type": "애니메이트",
+      "title": "【굿즈-아크릴스탠드】 러브라이브!×러브라이브! 선샤인!! (μ's) 아크릴스탠드【μ's×Aqours】 토죠 노조미×마츠우라 카난 - 애니메이트코리아 온라인샵",
+      "summary": "【굿즈-아크릴스탠드】 러브라이브!×러브라이브! 선샤인!! (μ's) 아크릴스탠드【μ's×Aqours】 토죠 노조미×마츠우라 카난 &nbsp;&nbsp; 애니메이트코리아 온라인샵",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOa0FOVHUxcnh0SG84MS0zX2w2dGR3UEVHRWpmdEZQTnhtMnlsM3FaSFhNampURVlYSm5rUXdNMHoyR05rVXdNTXhYQlVJNWFrM0Q2dU1iR1cwMk1yWE5uWGtmY2NSdUlkRGZIS2xUNE51bkxnOFhldlk0WHQzX1Fkb053?oc=5",
+      "publishedAt": "2026-10-10T17:42:48+09:00",
+      "source": "Google News RSS discovery",
+      "collectedAt": "2026-10-22T11:08:44.138363+09:00",
+      "metrics": {
+        "fundingPercent": null,
+        "supporters": null,
+        "price": null
+      },
+      "signal": "신규 소식",
+      "image": null
+    },
+    {
+      "id": "animate-discovery:https://news.google.com/rss/articles/CBMiggFBVV95cUxONjJ6d21tQU5NSXo1RDRaNHh2VEl5RzJXTS1KaXZ4dnFHemVrVzY3S1h6YjFyWVNvRFEtY2JIemlQVHpKRFJNMlhHOXcxVnBUYlhncDdGZlVGYWZKUVdBUlZjN3BNNGUxZlhvc3hkMHJ5a2RXbWFyaHVERnRneVNUclJR?oc=5",
+      "channel": "애니메이트",
+      "type": "애니메이트",
+      "title": "【굿즈-아크릴스탠드】 러브라이브!×러브라이브! 선샤인!! (Aqours) 아크릴스탠드 【Aqours】 타카미 치카 - 애니메이트코리아 온라인샵",
+      "summary": "【굿즈-아크릴스탠드】 러브라이브!×러브라이브! 선샤인!! (Aqours) 아크릴스탠드 【Aqours】 타카미 치카 &nbsp;&nbsp; 애니메이트코리아 온라인샵",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONjJ6d21tQU5NSXo1RDRaNHh2VEl5RzJXTS1KaXZ4dnFHemVrVzY3S1h6YjFyWVNvRFEtY2JIemlQVHpKRFJNMlhHOXcxVnBUYlhncDdGZlVGYWZKUVdBUlZjN3BNNGUxZlhvc3hkMHJ5a2RXbWFyaHVERnRneVNUclJR?oc=5",
+      "publishedAt": "2026-10-10T16:52:16+09:00",
+      "source": "Google News RSS discovery",
+      "collectedAt": "2026-10-22T11:08:44.138363+09:00",
+      "metrics": {
+        "fundingPercent": null,
+        "supporters": null,
+        "price": null
+      },
+      "signal": "신규 소식",
+      "image": null
+    },
+    {
+      "id": "tumblbug-discovery:https://news.google.com/rss/articles/CBMiTkFVX3lxTE5YYk00aFZIbXBpN3F6bjM2TUU5dzFTWjc4ZW5vLVZFdXpGUTZ1TDI2SHBJeC11Sk5ncllhYTU0RWhQUmhWY2xVdkhvSTY0Zw?oc=5",
+      "channel": "텀블벅",
+      "type": "펀딩",
+      "title": "웹툰 일러스트 [모자/의류 스포츠 로고 150종] - 텀블벅",
+      "summary": "웹툰 일러스트 [모자/의류 스포츠 로고 150종] &nbsp;&nbsp; 텀블벅",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5YYk00aFZIbXBpN3F6bjM2TUU5dzFTWjc4ZW5vLVZFdXpGUTZ1TDI2SHBJeC11Sk5ncllhYTU0RWhQUmhWY2xVdkhvSTY0Zw?oc=5",
+      "publishedAt": "2026-10-09T08:22:30+09:00",
+      "source": "Google News RSS discovery",
+      "collectedAt": "2026-10-22T11:08:39.228710+09:00",
+      "metrics": {
+        "fundingPercent": null,
+        "supporters": null,
+        "price": null
+      },
+      "signal": "신규 소식",
+      "image": null
+    },
+    {
+      "id": "wadiz-discovery:https://news.google.com/rss/articles/CBMihgFBVV95cUxNaW9nbTRrdFNZTDZxWDFMNGo3YnlHYXRjV2FnMUxxWm1yY3NPV04tZ3VPZkdMTmVIRmM3SXh3OVFjUjB3WHpfeG1JWEhjanZId3hNYWMtQW9temNzdXRzMlNwbXYxSHlnUDhmZUl6Wm1Rd3paSmhJeDNQUGtwNkFTZEFSYWFRUQ?oc=5",
+      "channel": "와디즈",
+      "type": "펀딩",
+      "title": "앵콜펀딩 ㅣ 난이도의 끝판왕, 스릴의 정점! by 스타스랩 - wadiz",
+      "summary": "앵콜펀딩 ㅣ 난이도의 끝판왕, 스릴의 정점! by 스타스랩 &nbsp;&nbsp; wadiz",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaW9nbTRrdFNZTDZxWDFMNGo3YnlHYXRjV2FnMUxxWm1yY3NPV04tZ3VPZkdMTmVIRmM3SXh3OVFjUjB3WHpfeG1JWEhjanZId3hNYWMtQW9temNzdXRzMlNwbXYxSHlnUDhmZUl6Wm1Rd3paSmhJeDNQUGtwNkFTZEFSYWFRUQ?oc=5",
+      "publishedAt": "2026-10-09T03:34:56+09:00",
+      "source": "Google News RSS discovery",
+      "collectedAt": "2026-10-22T11:08:41.634318+09:00",
+      "metrics": {
+        "fundingPercent": null,
+        "supporters": null,
+        "price": null
+      },
+      "signal": "신규 소식",
+      "image": null
+    },
+    {
+      "id": "bookstore-discovery:https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtTzJPZmJKZlBmak5EWEZlXzFyVnJZcTRNOXBxZ0pONzBReW1XdWhnYlM0aWMzN3NrU3hMdENsbmNLamwwU3lYVXZlcFg3VlFEQlQ1SEVnbUt2bzdDc2Z5dWhR?oc=5",
+      "channel": "온라인 서점",
+      "type": "서점",
+      "title": "세네카, 오늘을 빼앗기고 있는 당신에게(20만 부 기념 리커버 한정판 에디션) - 국내도서",
+      "summary": "세네카, 오늘을 빼앗기고 있는 당신에게(20만 부 기념 리커버 한정판 에디션) &nbsp;&nbsp; 국내도서",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtTzJPZmJKZlBmak5EWEZlXzFyVnJZcTRNOXBxZ0pONzBReW1XdWhnYlM0aWMzN3NrU3hMdENsbmNLamwwU3lYVXZlcFg3VlFEQlQ1SEVnbUt2bzdDc2Z5dWhR?oc=5",
+      "publishedAt": "2026-10-08T16:00:00+09:00",
+      "source": "Google News RSS discovery",
+      "collectedAt": "2026-10-22T11:08:46.448461+09:00",
+      "metrics": {
+        "fundingPercent": null,
+        "supporters": null,
+        "price": null
+      },
+      "signal": "신규 소식",
+      "image": null
+    },
+    {
+      "id": "bookstore-discovery:https://news.google.com/rss/articles/CBMiW0FVX3lxTE50b1Q4MFZmQkU4U1Zfb3VsRldUUFZxUDdFdEhEMjBiZVpwYXNsQkVtSUJaX1JjUFkwZzA3ZnZicS0wU1QtRDN5UVZURE43czJfc083WmRkU2NGMkU?oc=5",
+      "channel": "온라인 서점",
+      "type": "서점",
+      "title": "[예스24 eBook X 에토프] 2026 노벨문학상 한정판 디지털 굿즈 - 예스24",
+      "summary": "[예스24 eBook X 에토프] 2026 노벨문학상 한정판 디지털 굿즈 &nbsp;&nbsp; 예스24",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50b1Q4MFZmQkU4U1Zfb3VsRldUUFZxUDdFdEhEMjBiZVpwYXNsQkVtSUJaX1JjUFkwZzA3ZnZicS0wU1QtRDN5UVZURE43czJfc083WmRkU2NGMkU?oc=5",
+      "publishedAt": "2026-10-08T10:11:26+09:00",
+      "source": "Google News RSS discovery",
+      "collectedAt": "2026-10-22T11:08:46.448461+09:00",
+      "metrics": {
+        "fundingPercent": null,
+        "supporters": null,
+        "price": null
+      },
+      "signal": "신규 소식",
+      "image": null
+    },
+    {
+      "id": "tumblbug-discovery:https://news.google.com/rss/articles/CBMiQ0FVX3lxTE0zejhfOUFsNXExdWh6TzVoRm5OdVZ5QjY3allkOHFUeklqT0Z6Ym5lbnE0SEplVnJxRmlXOEFFem0xZkE?oc=5",
+      "channel": "텀블벅",
+      "type": "펀딩",
+      "title": "필그림스 보드게임 - 텀블벅",
+      "summary": "필그림스 보드게임 &nbsp;&nbsp; 텀블벅",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE0zejhfOUFsNXExdWh6TzVoRm5OdVZ5QjY3allkOHFUeklqT0Z6Ym5lbnE0SEplVnJxRmlXOEFFem0xZkE?oc=5",
+      "publishedAt": "2026-10-07T13:58:52+09:00",
+      "source": "Google News RSS discovery",
+      "collectedAt": "2026-10-22T11:08:39.228710+09:00",
+      "metrics": {
+        "fundingPercent": null,
+        "supporters": null,
+        "price": null
+      },
+      "signal": "신규 소식",
+      "image": null
+    },
+    {
+      "id": "tumblbug-discovery:https://news.google.com/rss/articles/CBMiTkFVX3lxTE13MG5oQ1ZBM0FRRm8xaldIQUc0LVp4cWVrd09LeWJ3XzR5RTVlaDNIWlZ2ZWF2RXZGR2ozTUozR0FiR285cDNNempUaU90Zw?oc=5",
+      "channel": "텀블벅",
+      "type": "펀딩",
+      "title": "그렇게 스며드는 우리 사이, 단편영화 - 텀블벅",
+      "summary": "그렇게 스며드는 우리 사이, 단편영화 &nbsp;&nbsp; 텀블벅",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE13MG5oQ1ZBM0FRRm8xaldIQUc0LVp4cWVrd09LeWJ3XzR5RTVlaDNIWlZ2ZWF2RXZGR2ozTUozR0FiR285cDNNempUaU90Zw?oc=5",
+      "publishedAt": "2026-10-06T07:18:45+09:00",
+      "source": "Google News RSS discovery",
+      "collectedAt": "2026-10-22T11:08:39.228710+09:00",
+      "metrics": {
+        "fundingPercent": null,
+        "supporters": null,
+        "price": null
+      },
+      "signal": "신규 소식",
+      "image": null
+    },
+    {
+      "id": "animate-discovery:https://news.google.com/rss/articles/CBMiggFBVV95cUxObFlKZmItTnhQTHRfZjlOOTkxa3k2dVB6MWVmVWFHY1ZIT2tySG1veF9DbEMtRmNTekEzSFc5Q3BRcWRYQUtDTXVlTjRHOG41bmxheGxzMFgxdzFDT2ZQRlJMVmN2NEJxRjBVTW8yWk1xcDU4eWhjTGllQ2cxME9KX0Z3?oc=5",
+      "channel": "애니메이트",
+      "type": "애니메이트",
+      "title": "【굿즈-뱃지】 은혼 애니판 B6 캐릭터 뱃지 컬렉션 과거 (랜덤) - 애니메이트코리아 온라인샵",
+      "summary": "【굿즈-뱃지】 은혼 애니판 B6 캐릭터 뱃지 컬렉션 과거 (랜덤) &nbsp;&nbsp; 애니메이트코리아 온라인샵",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObFlKZmItTnhQTHRfZjlOOTkxa3k2dVB6MWVmVWFHY1ZIT2tySG1veF9DbEMtRmNTekEzSFc5Q3BRcWRYQUtDTXVlTjRHOG41bmxheGxzMFgxdzFDT2ZQRlJMVmN2NEJxRjBVTW8yWk1xcDU4eWhjTGllQ2cxME9KX0Z3?oc=5",
+      "publishedAt": "2026-10-04T00:47:01+09:00",
+      "source": "Google News RSS discovery",
+      "collectedAt": "2026-10-22T11:08:44.138363+09:00",
+      "metrics": {
+        "fundingPercent": null,
+        "supporters": null,
+        "price": null
+      },
+      "signal": "신규 소식",
+      "image": null
+    },
+    {
+      "id": "animate-discovery:https://news.google.com/rss/articles/CBMiggFBVV95cUxNc2lreEZTYTU2SXNrcTR6eEhYSzZLaVpMWXBhMFcyYXFVbHA3TDZTV0RJd0tWUlRvU0JiUnlvZllBd1pFN1puM3M3TTRLUTQwa0t6RU5ERXo1YlJ1STJKTWY1bUYyWDlfQlE2RVRWMUk0ejZHVE5kbVExUmMxZlg4ZDV3?oc=5",
+      "channel": "애니메이트",
+      "type": "애니메이트",
+      "title": "【굿즈-뱃지】 ALIEN STAGE B6 ANAKT 고교 시리즈 트레이딩 캔뱃지 (랜덤) - 애니메이트코리아 온라인샵",
+      "summary": "【굿즈-뱃지】 ALIEN STAGE B6 ANAKT 고교 시리즈 트레이딩 캔뱃지 (랜덤) &nbsp;&nbsp; 애니메이트코리아 온라인샵",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNc2lreEZTYTU2SXNrcTR6eEhYSzZLaVpMWXBhMFcyYXFVbHA3TDZTV0RJd0tWUlRvU0JiUnlvZllBd1pFN1puM3M3TTRLUTQwa0t6RU5ERXo1YlJ1STJKTWY1bUYyWDlfQlE2RVRWMUk0ejZHVE5kbVExUmMxZlg4ZDV3?oc=5",
+      "publishedAt": "2026-09-30T16:25:22+09:00",
+      "source": "Google News RSS discovery",
+      "collectedAt": "2026-10-22T11:08:44.138363+09:00",
+      "metrics": {
+        "fundingPercent": null,
+        "supporters": null,
+        "price": null
+      },
+      "signal": "신규 소식",
+      "image": null
+    },
+    {
+      "id": "tumblbug-discovery:https://news.google.com/rss/articles/CBMiTkFVX3lxTE85VXRZcEVKV2gtc0Jpd0llQVJuUGpmSklkZmxNYllEVHEyTlBQVzh2Zkl5UVd3YVpwSUluX3pVbXdUR2tqX1NkZ0RybURqZw?oc=5",
+      "channel": "텀블벅",
+      "type": "펀딩",
+      "title": "아기다람쥐굿즈의 (주)소원콘텐츠님 게시글입니다. - 텀블벅",
+      "summary": "아기다람쥐굿즈의 (주)소원콘텐츠님 게시글입니다. &nbsp;&nbsp; 텀블벅",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE85VXRZcEVKV2gtc0Jpd0llQVJuUGpmSklkZmxNYllEVHEyTlBQVzh2Zkl5UVd3YVpwSUluX3pVbXdUR2tqX1NkZ0RybURqZw?oc=5",
+      "publishedAt": "2026-09-29T01:54:16+09:00",
+      "source": "Google News RSS discovery",
+      "collectedAt": "2026-10-22T11:08:39.228710+09:00",
+      "metrics": {
+        "fundingPercent": null,
+        "supporters": null,
+        "price": null
+      },
+      "signal": "신규 소식",
+      "image": null
+    },
+    {
+      "id": "tumblbug-discovery:https://news.google.com/rss/articles/CBMiTkFVX3lxTFBzMlFiZUNnR2lmYnYwSU5Ra1BQY0pWU251cnZJX3NLNWVlQVAwc0Q1dnZpb3lfUFdpVERSamJyOEN1RC1iQ0xYb3lRZXJFQQ?oc=5",
+      "channel": "텀블벅",
+      "type": "펀딩",
+      "title": "현대 신발 3D소재 -2- - 텀블벅",
+      "summary": "현대 신발 3D소재 -2- &nbsp;&nbsp; 텀블벅",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBzMlFiZUNnR2lmYnYwSU5Ra1BQY0pWU251cnZJX3NLNWVlQVAwc0Q1dnZpb3lfUFdpVERSamJyOEN1RC1iQ0xYb3lRZXJFQQ?oc=5",
+      "publishedAt": "2026-09-26T14:56:12+09:00",
+      "source": "Google News RSS discovery",
+      "collectedAt": "2026-10-22T11:08:39.229708+09:00",
+      "metrics": {
+        "fundingPercent": null,
+        "supporters": null,
+        "price": null
+      },
+      "signal": "신규 소식",
+      "image": null
+    }
+  ],
+  "sourceStatus": [
+    {
+      "channel": "텀블벅",
+      "status": "ok",
+      "count": "12"
+    },
+    {
+      "channel": "와디즈",
+      "status": "ok",
+      "count": "10"
+    },
+    {
+      "channel": "애니메이트",
+      "status": "ok",
+      "count": "12"
+    },
+    {
+      "channel": "온라인 서점",
+      "status": "ok",
+      "count": "12"
+    }
+  ]
 }
