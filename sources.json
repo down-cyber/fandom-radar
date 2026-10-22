@@ -1,0 +1,31 @@
+{
+  "timezone": "Asia/Seoul",
+  "max_items_per_source": 12,
+  "max_age_days": 30,
+  "sources": [
+    {
+      "id": "tumblbug-discovery",
+      "channel": "텀블벅",
+      "type": "펀딩",
+      "query": "site:tumblbug.com (펀딩 OR 프로젝트 OR 굿즈)"
+    },
+    {
+      "id": "wadiz-discovery",
+      "channel": "와디즈",
+      "type": "펀딩",
+      "query": "site:wadiz.kr (펀딩 OR 프로젝트 OR 굿즈)"
+    },
+    {
+      "id": "animate-discovery",
+      "channel": "애니메이트",
+      "type": "애니메이트",
+      "query": "(site:animate-onlineshop.co.kr OR site:animate-onlineshop.jp) (굿즈 OR 특전 OR 예약)"
+    },
+    {
+      "id": "bookstore-discovery",
+      "channel": "온라인 서점",
+      "type": "서점",
+      "query": "(site:kyobobook.co.kr OR site:yes24.com OR site:aladin.co.kr) (만화 OR 애니 OR 굿즈 OR 한정판)"
+    }
+  ]
+}
