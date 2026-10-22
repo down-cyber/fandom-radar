@@ -43,7 +43,7 @@ jobs:
       - name: Prepare site files
         run: |
           mkdir -p _site
-          cp index.html data.json _site/
+          cp index.html data.json share-card.png _site/
 
       - name: Upload site artifact
         uses: actions/upload-pages-artifact@v4
